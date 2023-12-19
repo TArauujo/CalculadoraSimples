@@ -42,7 +42,7 @@ button{
     width: 60%; /* o tamanho horizontal do botão (pros lados)*/
     height: 30px; /* o tamanho vertical do botão (pra cima e pra baixo)*/
     margin: 3px; /* a distância vertical entre os botões (distância entre um e outro)*/
-    background: #fff;
+    background: #aaa0a0;
     border: none;
     outline: none;
     border-radius: 30px;
